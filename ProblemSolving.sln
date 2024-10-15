@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LeetCode", "LeetCode", "{9F7255A0-28CE-49F7-94E1-EEF7543A12BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_TwoSum", "LeetCode\1_TwoSum\1_TwoSum.csproj", "{FAA8114B-B51B-4AEA-929A-C2A0B583E23E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_AddTwoNumbers", "LeetCode\2_AddTwoNumbers\2_AddTwoNumbers.csproj", "{E21D6ABA-BCB3-471B-9B3F-8609BACFA5C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA8114B-B51B-4AEA-929A-C2A0B583E23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA8114B-B51B-4AEA-929A-C2A0B583E23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA8114B-B51B-4AEA-929A-C2A0B583E23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA8114B-B51B-4AEA-929A-C2A0B583E23E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21D6ABA-BCB3-471B-9B3F-8609BACFA5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21D6ABA-BCB3-471B-9B3F-8609BACFA5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21D6ABA-BCB3-471B-9B3F-8609BACFA5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21D6ABA-BCB3-471B-9B3F-8609BACFA5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FAA8114B-B51B-4AEA-929A-C2A0B583E23E} = {9F7255A0-28CE-49F7-94E1-EEF7543A12BD}
+		{E21D6ABA-BCB3-471B-9B3F-8609BACFA5C7} = {9F7255A0-28CE-49F7-94E1-EEF7543A12BD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85FFB075-FBDE-4420-B72B-8A484B5075A5}
+	EndGlobalSection
+EndGlobal
